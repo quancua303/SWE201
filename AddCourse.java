@@ -53,6 +53,7 @@ public class AddCourse extends javax.swing.JDialog {
     sai roi long oi
     
     */
+        // long jsdkjashd
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
 
         jLabel1.setFont(new java.awt.Font("Dialog", 1, 18)); // NOI18N
