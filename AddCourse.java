@@ -49,7 +49,10 @@ public class AddCourse extends javax.swing.JDialog {
         lbCode = new javax.swing.JLabel();
         lbName = new javax.swing.JLabel();
         lbCredit = new javax.swing.JLabel();
-
+    /*
+    sai roi long oi
+    
+    */
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
 
         jLabel1.setFont(new java.awt.Font("Dialog", 1, 18)); // NOI18N
